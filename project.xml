@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+
+	<meta title="lossy-bitmap" package="io.github.mrchnk.lossy-bitmap" version="1.0.0" company="mrchnk" />
+	<app main="Main" path="bin/app" file="Main" />
+
+	<window width="640" height="480" fps="30" />
+
+	<source path="src" />
+
+	<haxelib name="openfl" />
+
+	<library path="assets/lossy-bitmap.swf" preload="true" />
+
+</project>
